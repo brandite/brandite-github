@@ -61,3 +61,17 @@ git merge
 #### Some useful links
 * [A Github Tutorial](http://www.sbf5.com/~cduan/technical/git/)
 
+### Topics for Future Brandites ... please let us know
+* Javascript intro
+* What does DNS really do?
+* Ruby in one hour
+* Build a blogging server in 5 minutes with Rails
+* Inheritance considered harmful: Alternatives
+* Bootstrap and alternatives
+* OO Concept: Single Responsibility principle
+* Doing research: Finding interesting papers, getting and organizing
+* CSS basics
+* REST Api: What's that all about
+* Service Oriented Architectures
+* Heroku and friends
+* Advanced Gitghub: pull requests
