@@ -8,6 +8,8 @@ OBVIOUS CHANGE!!!
 * Email me (pitosalas@brandeis.edu) your user name
 * Clone this [Brandeis-demo](https://github.com/pitosalas/brandeis-demo) repository to your computer
 * Create a play repository on github: [Set up Git](https://help.github.com/articles/set-up-git), and clone it to your computer also
+* Add fake
+* Add fake
 
 #### Key concepts
 * Repository: All the files, history, modifications, etc. of a single project. Stored either in a folder on your computer or as a unit on Github. Most importantly, it contains all the Commits (or commit objects). Also known as a repo.
