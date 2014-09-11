@@ -8,6 +8,7 @@
 #### Key concepts
 * Repository: All the files, history, modifications, etc. of a single project. Stored either in a folder on your computer or as a unit on Github. Most importantly, it contains all the Commits (or commit objects). Also known as a repo.
 * Commit: Used as a noun. A set of files corresponding to the state of the project, all it's files, at a certain point in time. Analogous to a zip or archive of a directory. All commits (except the first one) have a (or more) parent(s), from which they came.
+* Branch: A commit which is a second child of a parent. The parent has two children, and each child has the same parent.
 
 #### Create a repository
 * Any directory on your computer can be "changed" into a repo with the `git init` command. All it does is create a hidden `.git` directory in the root of that directory. The other contents of the directory does not change.
