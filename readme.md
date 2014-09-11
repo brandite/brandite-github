@@ -1,4 +1,6 @@
 this is the most important thing ever
+sadsad
+
 # Pre-workshop steps
 * Install git on your computer: [Git Downloads](http://git-scm.com/downloads)
 * Create a free account on www.github.com
