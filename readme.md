@@ -1,5 +1,4 @@
-OBVIOUS CHANGE!!!
-
+this is the most important secret ever
 # Pre-workshop steps
 * Install git on your computer: [Git Downloads](http://git-scm.com/downloads)
 * Create a free account on www.github.com
