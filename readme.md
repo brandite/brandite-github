@@ -6,7 +6,7 @@
 #### Some useful links
 * [A Github Tutorial](http://www.sbf5.com/~cduan/technical/git/)
 
-## Pre-workshop steps
+# Pre-workshop steps
 * Install git on your computer: [Git Downloads](http://git-scm.com/downloads)
 * Create a free account on www.github.com
 * Email me (pitosalas@brandeis.edu) your user name
@@ -25,3 +25,15 @@ mkdir [project]
 cd [project]
 git init
 ```
+
+#### Create a commit
+* Tell git what files to include, using `git add`
+* Tell git to create the commit, using `git commit`
+* The new commit is a 'child' of the previous commit
+
+#### Working with Github
+* Just another git repo, "in the cloud"
+* Totally separate from the one on your computer
+* Use "git push", "git clone", "git pull" to send updates from one copy of your repo to another.
+
+
