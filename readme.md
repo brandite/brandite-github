@@ -3,6 +3,8 @@ OBVIOUS CHANGE!!!
 # Pre-workshop steps
 * Install git on your computer: [Git Downloads](http://git-scm.com/downloads)
 * Create a free account on www.github.com
+* CLever change
+* Clever change
 * Email me (pitosalas@brandeis.edu) your user name
 * Clone this [Brandeis-demo](https://github.com/pitosalas/brandeis-demo) repository to your computer
 * Create a play repository on github: [Set up Git](https://help.github.com/articles/set-up-git), and clone it to your computer also
