@@ -19,6 +19,6 @@
 
 #### Small demo
 * Create a simple repo
-   mkdir [project]
-   cd [project]
-   git init
+`mkdir [project]`
+`cd [project]`
+`git init`
