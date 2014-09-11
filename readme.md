@@ -27,7 +27,7 @@ git init
 git add --all
 git status
 git commit -m "commit comment"
-
+```
 #### Working with Github
 * Just another git repo, "in the cloud"
 * Totally separate from the one on your computer
