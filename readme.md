@@ -22,11 +22,22 @@ git init
 * Tell git what files to include, using `git add`
 * Tell git to create the commit, using `git commit`
 * The new commit is a 'child' of the previous commit
+* Commands:
+```
+git add --all
+git status
+git commit -m "commit comment"
 
 #### Working with Github
 * Just another git repo, "in the cloud"
 * Totally separate from the one on your computer
 * Use "git push", "git clone", "git pull" to send updates from one copy of your repo to another.
+
+```
+git pull
+git push
+git clone
+```
 
 #### Some useful links
 * [A Github Tutorial](http://www.sbf5.com/~cduan/technical/git/)
