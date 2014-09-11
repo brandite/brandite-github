@@ -28,15 +28,29 @@ git add --all
 git status
 git commit -m "commit comment"
 ```
+
 #### Working with Github
 * Just another git repo, "in the cloud"
 * Totally separate from the one on your computer
 * Use "git push", "git clone", "git pull" to send updates from one copy of your repo to another.
+* Referenced via a "url", e.g.: git@github.com:pitosalas/brandeis-demo.git
 
+##### Commands
 ```
 git pull
 git push
 git clone
+```
+
+#### Branching
+* Conceptually, sometimes you want to begin a thread of development as an experiment without risking breaking something that is working. Maybe you are beginning a new release, or maybe you want to hack something.
+* Technically a branch is a second child from a parent commit
+
+##### Commands
+```
+git branch
+git checkout
+git merge
 ```
 
 #### Some useful links
