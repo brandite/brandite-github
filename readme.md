@@ -20,7 +20,7 @@
 #### Small demo
 * Create a simple repo
 
-```mkdir [project]`
-cd [project]`
+```mkdir [project]
+cd [project]
 git init
 ```
