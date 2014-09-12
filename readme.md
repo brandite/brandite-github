@@ -1,14 +1,9 @@
-this is the most important thing ever
 # Pre-workshop steps
 * Install git on your computer: [Git Downloads](http://git-scm.com/downloads)
 * Create a free account on www.github.com
-* CLever change
-* Clever change
 * Email me (pitosalas@brandeis.edu) your user name
 * Clone this [Brandeis-demo](https://github.com/pitosalas/brandeis-demo) repository to your computer
 * Create a play repository on github: [Set up Git](https://help.github.com/articles/set-up-git), and clone it to your computer also
-* Add fake
-* Add fake
 
 #### Key concepts
 * Repository: All the files, history, modifications, etc. of a single project. Stored either in a folder on your computer or as a unit on Github. Most importantly, it contains all the Commits (or commit objects). Also known as a repo.
@@ -65,18 +60,3 @@ git merge
 
 #### Some useful links
 * [A Github Tutorial](http://www.sbf5.com/~cduan/technical/git/)
-
-### Topics for Future Brandites ... please let us know
-* Javascript intro
-* What does DNS really do?
-* Ruby in one hour
-* Build a blogging server in 5 minutes with Rails
-* Inheritance considered harmful: Alternatives
-* Bootstrap and alternatives
-* OO Concept: Single Responsibility principle
-* Doing research: Finding interesting papers, getting and organizing
-* CSS basics
-* REST Api: What's that all about
-* Service Oriented Architectures
-* Heroku and friends
-* Advanced Gitghub: pull requests
